@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://ethsigner.vercel.app/"><img src="./public/android-chrome-512x512.png" width="200" height="200"></a>
+	<a href="https://ethsigner.vercel.app/" target="_BLANK"><img src="./public/android-chrome-512x512.png" width="200" height="200"></a>
 	<h1>EthSigner</h1>
 	<p>
 		<b>Your Ethereum Web3 signature debugger</b>
